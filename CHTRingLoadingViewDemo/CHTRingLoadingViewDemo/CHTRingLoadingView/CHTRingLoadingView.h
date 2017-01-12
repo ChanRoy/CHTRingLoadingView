@@ -44,8 +44,8 @@
 /**
  初始化方法
 
- @param frame
- @return 实例
+ @param frame frame
+ @return 实例 
  */
 - (instancetype)initWithFrame:(CGRect)frame NS_DESIGNATED_INITIALIZER;
 - (instancetype)init;

@@ -1,7 +1,7 @@
 # CHTRingLoadingView
 Simple Image Loading Indicator
 
-![] (https://github.com/ChanRoy/CHTRingLoadingView/blob/master/CHTRingLoadingView.gif)
+![CHTRingLoadingView] (https://github.com/ChanRoy/CHTRingLoadingView/blob/master/CHTRingLoadingView.gif)
 
 ##简介
 *仿造微信朋友圈图片的简单图片加载动画*

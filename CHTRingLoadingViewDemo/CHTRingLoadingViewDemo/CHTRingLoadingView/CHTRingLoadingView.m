@@ -157,6 +157,7 @@ static const CGFloat kDefaultTrackPercent = 0.3f;
 }
 
 #pragma mark - setters
+
 - (void)setBgRingColor:(UIColor *)bgRingColor{
     
     _bgRingColor = bgRingColor;

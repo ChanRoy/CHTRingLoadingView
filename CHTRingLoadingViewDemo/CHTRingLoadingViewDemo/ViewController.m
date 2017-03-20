@@ -26,6 +26,7 @@
     
     _ringView = [[CHTRingLoadingView alloc]init];
     _ringView.animationDuration = 3;
+    _ringView.loadingViewType = CHTRingLoadingViewTypeProgress;
     [self.view addSubview: _ringView];
     
     _ringView.center = self.view.center;

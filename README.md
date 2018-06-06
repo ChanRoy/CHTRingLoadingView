@@ -1,18 +1,20 @@
 # CHTRingLoadingView
 Simple Image Loading Indicator
 
+
 ![CHTRingLoadingView] (https://github.com/ChanRoy/CHTRingLoadingView/blob/master/CHTRingLoadingView.gif)
 
-##简介
+
+## 简介
 *仿造微信朋友圈图片的简单图片加载动画*
 
 *默认大小形状固定不可修改，只公开颜色等参数属性*
 
 *具体效果如上图*
 
-##使用
+## 使用
 
-###初始化
+### 初始化
 
 ```
 //frame的大小设置无效，默认为固定大小
@@ -20,7 +22,7 @@ Simple Image Loading Indicator
 - (instancetype)init;
 ```
 
-###属性
+### 属性
 
 ```
 /**
@@ -49,7 +51,7 @@ Simple Image Loading Indicator
 @property (nonatomic, assign) BOOL hidesWhenStopped;
 ```
 
-###其他方法
+### 其他方法
 ```
 /**
  开始旋转动画
@@ -62,7 +64,7 @@ Simple Image Loading Indicator
 - (void)stopLoading;
 ```
 
-##使用Demo
+## 使用Demo
 ```
 @implementation ViewController{
     

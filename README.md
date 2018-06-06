@@ -2,7 +2,7 @@
 Simple Image Loading Indicator
 
 
-![CHTRingLoadingView] (https://github.com/ChanRoy/CHTRingLoadingView/blob/master/CHTRingLoadingView.gif)
+![CHTRingLoadingView](https://github.com/ChanRoy/CHTRingLoadingView/blob/master/CHTRingLoadingView.gif)
 
 
 ## 简介
